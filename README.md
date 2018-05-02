@@ -16,6 +16,7 @@ Table of Contents: It's dependency is instructors short name code as it takes in
 
 Usage: It can be used by an instructor or anyone to find the courses that an instructor takes. This should make easy to select courses in        a term.
 
+
 Environment: It's been written in Javascript in node environment. Where express, body-parser, morgan, mongodb... modules/middlewares are        used. To run it into a windows/linux OS,
 
    a.  Install node, **[it can be found here](https://nodejs.org/en/download/ "Node.js")**
@@ -29,6 +30,8 @@ Environment: It's been written in Javascript in node environment. Where express,
    e.  Now, setup a.k.a environment is about to complete. just install/import  required packages/modules.
 
    f.  Ok, it's time to run. Save the code and..   it.
+
+&nbsp;
 
 Contributing: It's a part of a project under Routines API which is contributed by 4 members.
 
