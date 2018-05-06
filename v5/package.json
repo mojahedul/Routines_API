@@ -19,6 +19,6 @@
         "errorhandler": "^1.5.0",
         "morgan": "^1.9.0"
         "is-upper-case": "^5.6.0",
-        "is-lower-case": "^5.6.0"
+        "is-lower-case": "^5.6.0" 
     }
 }
