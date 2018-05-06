@@ -40,7 +40,17 @@ It's been written in Javascript in node environment. Where express, body-parser,
 
  - Install a code editior. **[code-editor](https://code.visualstudio.com/download "Visual Code")**
 
-Now, setup a.k.a environment is about to complete. just install/import  required packages/modules.
+Now, setup a.k.a environment is about to complete. just install/import à la carte  packages/modules.
+
+
+    There is one thing that can be tried to check the installation..
+    open cmd/shell for windows, terminal(ctrl + alt + T or ctrl + shift + T) incase of Linux,  try 
+    
+         npm --version
+         mongod --version
+         
+    if all goes correct, the output should be the version numbers of corresponding programs.
+
 
 Ok, it's time to run. Save the code and..   it.
 
