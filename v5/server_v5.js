@@ -57,7 +57,6 @@ app.get('/instructors', (req, res, next) => {
 ) //End of GET[] Method
 
 
-
 app.param('id', (req, res, next) => {
 
     Instructor.findById(req.params.id, (error, data) => {
