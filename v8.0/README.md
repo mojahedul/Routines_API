@@ -9,7 +9,7 @@ Description
 
 As the previous Routines API v7.0 brought some important fixes and some small updates, this version includes the way to feature something 
 
-important but also prudent to proper management
+important but also prudent to proper management. this feature has added as a part of continuous integration.
 
 
 Added in Routines API v8.0
