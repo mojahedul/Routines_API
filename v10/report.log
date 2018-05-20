@@ -1,0 +1,90 @@
+5-4-2018
+11-41-2018
+11-5-2018
+11-5-2018
+11-5-2018
+11-5-2018
+11-5-2018
+11-5-2018
+11-5-2018
+11-5-2018
+11-5-2018
+20-5-2018
+CastError: Cast to ObjectId failed for value "5af282ba94n22518689195f8" at path "_id" for model "instructors"
+CastError: Cast to ObjectId failed for value "5af282ba94n22518689195f8" at path "_id" for model "instructors"
+20-5-2018
+function (err) {
+                    
+                    if (err) throw err;
+        
+                    res.send("\tInvalid uri. This uri doesn't match any records..")
+
+                    fs.appendFile('report.log', "\n" );
+                    console.log('Reported Error in Delete[]..');
+                }
+
+20-5-2018
+function (err) {
+                    
+                    if (err) throw err;
+        
+                    res.send("\tInvalid uri. This uri doesn't match any records..");
+
+                    fs.appendFile('report.log', "\n" );
+                    console.log('Reported Error in Delete[]..');
+                }
+
+20-5-2018
+function (err) {
+                    
+                    if (err) throw err;
+        
+                //    res.send();
+
+                    fs.appendFile('report.log', "\n" );
+                    console.log('Reported Error in Delete[]..');
+                }
+
+20-5-2018
+function (err) {
+                    
+                    if (err) throw err;
+        
+                //    res.send();
+
+                    fs.appendFile('report.log', "\n" );
+                    console.log('Reported Error in Delete[]..');
+                }
+                function (err) {
+                    
+                    if (err) throw err;
+        
+                //    res.send();
+
+                    fs.appendFile('report.log', "\n" );
+                    console.log('Reported Error in Delete[]..');
+                }
+
+20-5-2018
+function (err) {
+                    
+                    if (err) throw err;
+        
+                //    res.send();
+
+                    fs.appendFile('report.log', "\n" );
+                    console.log("Reported Error in Delete[]..111");
+                }
+
+20-5-2018
+CastError: Cast to ObjectId failed for value "5af282ba94n22518689195f8" at path "_id" for model "instructors"
+
+20-5-2018
+CastError: Cast to ObjectId failed for value "5af282ba94n22518689195f8" at path "_id" for model "instructors"
+
+20-5-2018
+CastError: Cast to ObjectId failed for value "5af282ba94n22518689195f8" at path "_id" for model "instructors"
+
+20-5-2018
+
+20-5-2018
